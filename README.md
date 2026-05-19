@@ -2,7 +2,6 @@
 
 A professional Python Word Guessing / Hangman Game built using Python and Tkinter GUI.
 
----
 
 # 🚀 Features
 
@@ -16,7 +15,6 @@ A professional Python Word Guessing / Hangman Game built using Python and Tkinte
 - 📂 Multiple Categories
 - 🌙 Dark Theme UI
 
----
 
 # 🛠️ Technologies Used
 
@@ -25,7 +23,6 @@ A professional Python Word Guessing / Hangman Game built using Python and Tkinte
 - File Handling
 - Random Module
 
----
 
 # 📁 Project Structure
 
@@ -41,7 +38,6 @@ word_game/
 └── README.md
 ```
 
----
 
 # ▶️ How to Run
 
@@ -49,7 +45,6 @@ word_game/
 
 ```bash
 python main.py
-```
 
 ## Run GUI Version
 
@@ -57,7 +52,6 @@ python main.py
 python gui_game.py
 ```
 
----
 
 # 🎯 Game Rules
 
@@ -67,7 +61,6 @@ python gui_game.py
 - Wrong guesses reduce attempts
 - Hint usage reduces score
 
----
 
 # 📸 Game Preview
 
@@ -79,7 +72,6 @@ GUI includes:
 - Hint button
 - Score tracking
 
----
 
 # 🔥 Future Improvements
 
@@ -90,7 +82,6 @@ GUI includes:
 - Sound Effects
 - Online Leaderboard
 
----
 
 # 👩‍💻 Developer
 
@@ -99,4 +90,3 @@ Created by SANJIVANEE2903
 GitHub:
 https://github.com/SANJIVANEE2903
 
----
